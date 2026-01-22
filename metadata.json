@@ -1,0 +1,5 @@
+{
+  "name": "SketchUI - Hand-Drawn Component Generator",
+  "description": "Generate unique, hand-drawn, and graffiti-style UI components using natural language. Converts AI-generated artistic designs into programmable React/Tailwind code.",
+  "requestFramePermissions": []
+}
